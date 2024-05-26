@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <!--framework-->
-<span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs" alt="next logo" title="ReactJS" height="25" /></span>
 &nbsp;
