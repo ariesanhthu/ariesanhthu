@@ -1,18 +1,19 @@
-# Hi there 👋 I'm Thu
+# Hi there, I'm Thu 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-### I am a student majoring in Information Technology with a passion for web development and data analysis.
+### 
+I am a full stack developer with a passion for building web applications and a strong skill set in data analysis. 
+I love working on both front-end and back-end technologies to create seamless user experiences and insightful data-driven solutions.
 
 ## 🔭 I’m currently working on
-- Enhancing my web development skills by building full-stack projects.
-- A data analysis project using Python and Pandas to gain insights from large datasets.
+- Developing full-stack web applications using React, Next.js, and Node.js.
+- Implementing data analysis projects to uncover insights and drive decision-making.
 
 ## 🌱 I’m currently learning
-- Advanced JavaScript frameworks such as React and Next.js.
-- Data visualization techniques using libraries like D3.js and Tableau.
-- Machine learning fundamentals and algorithms.
-
+- Advanced features and best practices in React and Next.js.
+- Enhancing data analyst skills: visualization, statistical knowledge.
+- Exploring machine learning algorithms and their applications in data analysis.
 
 <!-- badge: https://shields.io/badges/static-badge -->
 <!-- Icon title: https://simpleicons.org/ -->
