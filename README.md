@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/python-282C34?logo=react&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
 &nbsp;
-
 <!--framework-->
 <span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
 &nbsp;
@@ -38,7 +37,9 @@ Here are some ideas to get you started:
 &nbsp;
 <!--database-->
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="MongoDB" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="MongoDB" height="25" /></span>
 &nbsp;
 
