@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
+
 ![Ariesanhthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu)](https://github.com/ariesanhthu/github-readme-stats)
 
