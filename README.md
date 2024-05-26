@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
 I am a student majoring in Information Technology with a passion for web development and data analysis.
 
