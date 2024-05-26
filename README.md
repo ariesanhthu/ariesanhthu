@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div style="display: flex; justify-content: center; width: 100%; gap: 2rem">
+<div style="display: flex; justify-content: center; width: 200px">
   <a href="#" title="ariesanhthu" style="">
     <img src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
   </a>
