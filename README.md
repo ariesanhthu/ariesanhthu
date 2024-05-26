@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋 I'm Thu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-I am a student majoring in Information Technology with a passion for web development and data analysis.
+### I am a student majoring in Information Technology with a passion for web development and data analysis.
 
 ## 🔭 I’m currently working on
 - Enhancing my web development skills by building full-stack projects.
