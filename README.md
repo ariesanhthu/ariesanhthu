@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- https://simpleicons.org/ -->
-<!-- https://shields.io/badges/static-badge -->
+<!-- badge: https://shields.io/badges/static-badge -->
+<!-- Icon title: https://simpleicons.org/ -->
+<!-- Branch slugs: https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!--frontend-->
@@ -24,13 +25,21 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<!--framework-->
-<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="ReactJS" height="25" /></span>
+<!--backend-->
+<span><img src="https://img.shields.io/badge/csharp-282C34?logo=react&logoColor=512BD4" alt="csharp logo" title="csharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs" alt="next logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/python-282C34?logo=react&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
+&nbsp;
+
+<!--framework-->
+<span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <!--database-->
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="MongoDB" height="25" /></span>
 &nbsp;
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
