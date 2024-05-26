@@ -41,6 +41,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="MongoDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/vercel-282C34?logo=prisma&logoColor=2D3748" alt="vercel logo" title="vercel" height="25" /></span>
+&nbsp;
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
