@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ![Ariesanhthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu)](https://github.com/ariesanhthu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&theme=tokyonight&hide=pawn,pascal)](https://github.com/ariesanhthu/github-readme-stats)
 
