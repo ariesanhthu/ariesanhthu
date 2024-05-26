@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align="center" style="width = 100%">
-  <div style="width = 60%"> 
-    
-![Ariesanhthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight)
-  </div>
-<div style="width = 40%"> 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&theme=tokyonight&hide=pawn,pascal&layout=compact)](https://github.com/ariesanhthu/github-readme-stats)
-
-</div>
+<div style="display: flex; justify-content: center; width: 100%; gap: 2rem">
+  <a href="#" title="ariesanhthu" style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
+  </a>
+  <a href="#" title="ariesanhthu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&theme=tokyonight&hide=pawn,pascal&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" />
+  </a>
 </div>
 
