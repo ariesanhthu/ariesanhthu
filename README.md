@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-<div align="center">
-  <a href="#" title="ariesanhthu" style="">
+<div align="center" gap = "50px">
     <img src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
-  </a>
-  <a href="#" title="ariesanhthu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&theme=tokyonight&hide=pawn,pascal&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" />
-  </a>
 </div>
 
