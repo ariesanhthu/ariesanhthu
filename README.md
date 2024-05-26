@@ -1,19 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ariesanhthu/ariesanhthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-Here are some ideas to get you started:
+I am a student majoring in Information Technology with a passion for web development and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- Enhancing my web development skills by building full-stack projects.
+- A data analysis project using Python and Pandas to gain insights from large datasets.
+
+## 🌱 I’m currently learning
+- Advanced JavaScript frameworks such as React and Next.js.
+- Data visualization techniques using libraries like D3.js and Tableau.
+- Machine learning fundamentals and algorithms.
+
 
 <!-- badge: https://shields.io/badges/static-badge -->
 <!-- Icon title: https://simpleicons.org/ -->
