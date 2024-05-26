@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--framework-->
 <span><img src="https://img.shields.io/badge/dotnet-282C34?logo=dotnet&logoColor=512BD4" alt="dotnet logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/nextjs-282C34?logo=nextdotjs" alt="next logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs" alt="next logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <!--database-->
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
