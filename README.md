@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-![khoa views](https://github-readme-stats.vercel.app/api?username=AKHOA2005&show_icons=true&theme=tokyonigh)
-
 ### 
 I am a full stack developer with a passion for building web applications and a strong skill set in data analysis. 
 I love working on both front-end and back-end technologies to create seamless user experiences and insightful data-driven solutions.
