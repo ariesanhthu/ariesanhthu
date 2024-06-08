@@ -1,6 +1,8 @@
 # Hi there, I'm Thu 👋
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
+
 
 ### 
 I am a full stack developer with a passion for building web applications and a strong skill set in data analysis. 
