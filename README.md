@@ -31,7 +31,7 @@ I love working on both front-end and back-end technologies to create seamless us
 <!--backend-->
 <span><img src="https://img.shields.io/badge/csharp-282C34?logo=react&logoColor=512BD4" alt="csharp logo" title="csharp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/python-282C34?logo=react&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
 &nbsp;
 <!--framework-->
 <span><img src="https://img.shields.io/badge/.Net-282C34?logo=dotnet&logoColor=512BD4" alt="Dotnet logo" title="Dotnet" height="25" /></span>
