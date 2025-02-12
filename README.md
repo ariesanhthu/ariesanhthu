@@ -29,7 +29,7 @@ I love working on both front-end and back-end technologies to create seamless us
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <!--backend-->
-<span><img src="https://img.shields.io/badge/csharp-282C34?logo=react&logoColor=512BD4" alt="csharp logo" title="csharp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/csharp-282C34?logo=csharp&logoColor=512BD4" alt="csharp logo" title="csharp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/python-282C34?logo=python&logoColor=3776AB" alt="python logo" title="python" height="25" /></span>
 &nbsp;
@@ -45,7 +45,7 @@ I love working on both front-end and back-end technologies to create seamless us
 &nbsp;
 <span><img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/vercel-282C34?logo=prisma&logoColor=2D3748" alt="vercel logo" title="vercel" height="25" /></span>
+<span><img src="https://img.shields.io/badge/vercel-282C34?logo=vercel&logoColor=2D3748" alt="vercel logo" title="vercel" height="25" /></span>
 &nbsp;
 </div>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
