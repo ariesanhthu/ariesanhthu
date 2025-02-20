@@ -1,5 +1,4 @@
-# Hi there, I'm Thu 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=4000&color=1CDCF7&background=FFE2E200&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Thu+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
