@@ -4,7 +4,7 @@
 
 
 ### 
-I am a full stack developer with a passion for building web applications and a strong skill set in data analysis. 
+I am a full stack developer.
 I love working on both front-end and back-end technologies to create seamless user experiences and insightful data-driven solutions.
 
 ## 🔭 I’m currently working on
