@@ -4,8 +4,7 @@
 
 
 ### 
-I am a full stack developer.
-I love working on both front-end and back-end technologies to create seamless user experiences and insightful data-driven solutions.
+I am an IT student majoring in Computer Vision with hands-on experience developing and leading end-to-end AI systems, from model training to production deployment.
 
 ## 🔭 I’m currently working on
 - Developing full-stack web applications using React, Next.js, and Node.js.
