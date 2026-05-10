@@ -47,12 +47,11 @@ I am an IT student majoring in Computer Vision with hands-on experience developi
 &nbsp;
 </div>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 10rem; width: auto;" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&theme=tokyonight&hide=pawn,pascal,Assembly,Java&layout=compact" alt="Top Languages" style="height: 10rem; width: auto;" />
+<h2 align="center">GitHub Analytics</h2>
 
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=pawn,pascal,assembly" />
+</p>
 
 
