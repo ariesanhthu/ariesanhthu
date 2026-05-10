@@ -50,8 +50,12 @@ I am an IT student majoring in Computer Vision with hands-on experience developi
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=pawn,pascal,assembly" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariesanhthu&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ariesanhthu&theme=tokyonight" />
 </p>
 
 
