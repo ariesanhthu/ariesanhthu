@@ -50,7 +50,7 @@ I am an IT student majoring in Computer Vision with hands-on experience developi
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariesanhthu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariesanhthu" />
 </p>
 
 <p align="center">
