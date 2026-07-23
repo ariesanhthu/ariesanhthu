@@ -81,18 +81,18 @@ As a woman growing in tech, I share the challenges, small wins, and lessons I le
 
 ## GitHub Overview
 
-<p align="center">
+<div align="center">
   <img
-    height="165"
     src="./profile/stats.svg"
     alt="Thu's GitHub statistics and rank"
-  />
-
-  <img
-    height="165"
+    width="49%"
+  /><img
     src="./profile/top-langs.svg"
     alt="Thu's most used programming languages"
+    width="49%"
   />
-</p>
+</div>
+
+<br/>
 
 > Language statistics represent the code composition of my public repositories, not proficiency levels.
