@@ -99,37 +99,17 @@ As a woman growing in tech, I share the challenges, small wins, and lessons I le
 ## GitHub Overview
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github_dark&v=1"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github&v=1"
-    />
-    <img
-      width="48%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github&v=1"
-      alt="Thu's GitHub statistics"
-    />
-  </picture>
+  <img
+    height="165"
+    src="./profile/stats.svg"
+    alt="Thu's GitHub statistics and rank"
+  />
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github_dark&v=1"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github&v=1"
-    />
-    <img
-      width="48%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github&v=1"
-      alt="Thu's most used programming languages"
-    />
-  </picture>
+  <img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Thu's most used programming languages"
+  />
 </p>
 
 > Language statistics represent the code composition of my public repositories, not proficiency levels.
