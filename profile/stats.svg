@@ -1,19 +1,19 @@
 
       <svg
-        width="467"
-        height="195"
-        viewBox="0 0 467 195"
+        width="430"
+        height="207"
+        viewBox="0 0 430 207"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Nguy&#7877;n Anh Th&#432;'s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 26, Total Commits  (last year) : 641, Total PRs: 23, Total Issues: 6, Contributed to (last year): 4</desc>
+        <title id="titleId">GitHub Activity, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 26, Total Commits  : 927, Total PRs: 23, Total Issues: 6, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #006AFF;
+            fill: #6EF7F1;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #417E87;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #417E87;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #0579C3;
+      fill: #6EF7F1;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #006AFF;
+      stroke: #6EF7F1;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #006AFF;
+      stroke: #6EF7F1;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 151.66347526546764;
+        stroke-dashoffset: 166.61095783761792;
       }
     }
   
@@ -107,12 +107,12 @@
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="12"
           height="99%"
-          stroke="#e4e2e2"
-          width="466"
-          fill="#ffffff00"
-          stroke-opacity="0"
+          stroke="#30363D"
+          width="429"
+          fill="#0D1117"
+          stroke-opacity="1"
         />
 
         
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Nguy&#7877;n Anh Th&#432;'s GitHub Stats</text>
+      >GitHub Activity</text>
     </g>
       </g>
     
@@ -137,13 +137,13 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(363.5, 53.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B
+          B-
         </text>
       
         </g>
@@ -164,22 +164,22 @@
         data-testid="stars"
       >26</text>
     </g>
-  </g><g transform="translate(0, 25)">
+  </g><g transform="translate(0, 27)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
       <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
     </svg>
   
-      <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
+      <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >641</text>
+      >927</text>
     </g>
-  </g><g transform="translate(0, 50)">
+  </g><g transform="translate(0, 54)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -194,7 +194,7 @@
         data-testid="prs"
       >23</text>
     </g>
-  </g><g transform="translate(0, 75)">
+  </g><g transform="translate(0, 81)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
@@ -209,7 +209,7 @@
         data-testid="issues"
       >6</text>
     </g>
-  </g><g transform="translate(0, 100)">
+  </g><g transform="translate(0, 108)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
       
     <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
