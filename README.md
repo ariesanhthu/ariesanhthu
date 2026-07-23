@@ -37,23 +37,6 @@ As a woman growing in tech, I share the challenges, small wins, and lessons I le
 
 </div>
 
----
-
-## About me
-
-- Computer Vision Intern focused on applied AI and real-world product development.
-- Building end-to-end products for freelance clients and early-stage startups.
-- Working across model training, evaluation, edge deployment, backend APIs, databases, and web interfaces.
-- Interested in Computer Vision, Edge AI, model optimization, and intelligent product systems.
-- Sharing practical lessons about technology, projects, and life as a woman in IT.
-
-## What I build
-
-- **Computer Vision Systems** — data preparation, model training, evaluation, inference, and deployment.
-- **AI-powered Products** — connecting AI models with APIs, databases, and real user workflows.
-- **Edge AI Prototypes** — deploying lightweight models to ESP32, Arduino, and embedded devices.
-- **Full-stack Applications** — turning early ideas into usable freelance and startup products.
-
 ## Technologies
 
 <div align="center">
