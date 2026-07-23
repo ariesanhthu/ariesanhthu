@@ -1,12 +1,18 @@
-name: Update GitHub Stats
+name: Update GitHub Languages
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "17 2 * * *"
+    - cron: "17 9 1 * *"
+      timezone: "Asia/Ho_Chi_Minh"
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-github-profile-languages
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -16,27 +22,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate GitHub stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=ariesanhthu&show_icons=true&hide_border=true&theme=transparent
-          path: profile/stats.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
-
       - name: Generate top languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=ariesanhthu&layout=compact&langs_count=6&hide_border=true&theme=transparent
           path: profile/top-langs.svg
-          token: ${{ secrets.GH_STATS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated cards
+      - name: Commit generated card
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/stats.svg profile/top-langs.svg
-          git commit -m "chore: update GitHub profile statistics" || exit 0
+          git add profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No language statistics changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub language statistics"
           git push
