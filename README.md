@@ -1,23 +1,39 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=4000&color=6EF7F1&background=FFE2E200&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Thu+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-<div align="center">
-
 ### Computer Vision Intern · AI Product Builder
 
-I'm currently a Computer Vision Intern, learning how machines can turn visual data into useful decisions. 
+I'm currently a Computer Vision Intern, learning how machines can turn visual data into useful decisions.
 
 Besides that, I spend my time turning ideas into practical products, from AI features and edge devices to web applications for freelance clients and early-stage startups.
 
 As a woman growing in tech, I share the challenges, small wins, and lessons I learn along the way, so feel free to connect with me 👇
+
 <br/>
 
-<a href="https://www.linkedin.com/in/nguyen-anh-thu-bbb30a203/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/arischii05/">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://www.threads.com/@_arieswhite_">Threads</a>
+<a href="https://www.linkedin.com/in/nguyen-anh-thu-bbb30a203/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/arischii05/">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+&nbsp;
+<a href="https://www.threads.com/@_arieswhite_">
+  <img
+    src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"
+    alt="Threads"
+  />
+</a>
 
 </div>
 
@@ -82,30 +98,38 @@ As a woman growing in tech, I share the challenges, small wins, and lessons I le
 
 ## GitHub Overview
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github_dark&v=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github&v=1"
+    />
+    <img
+      width="48%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariesanhthu&theme=github&v=1"
+      alt="Thu's GitHub statistics"
+    />
+  </picture>
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=ariesanhthu&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github"
-  alt="Thu's GitHub statistics and rank"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariesanhthu&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-  alt="Thu's most used programming languages"
-/>
-
-</div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github_dark&v=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github&v=1"
+    />
+    <img
+      width="48%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariesanhthu&theme=github&v=1"
+      alt="Thu's most used programming languages"
+    />
+  </picture>
+</p>
 
 > Language statistics represent the code composition of my public repositories, not proficiency levels.
-
----
-
-<div align="center">
-
-### Let's connect
-
-Follow my journey as I build AI products, explore Computer Vision, and share practical lessons from life in tech.
-
-</div>
