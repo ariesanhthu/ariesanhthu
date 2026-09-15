@@ -20,21 +20,6 @@ As a woman growing in tech, I share the challenges, small wins, and lessons I le
     alt="LinkedIn"
   />
 </a>
-&nbsp;
-<a href="https://www.instagram.com/arischii05/">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-&nbsp;
-<a href="https://www.threads.com/@_arieswhite_">
-  <img
-    src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"
-    alt="Threads"
-  />
-</a>
-
 </div>
 
 ## Technologies
