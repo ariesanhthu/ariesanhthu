@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ariesanhthu&color=blue)
 
-### Computer Vision Intern · AI Product Builder
+### Junior Computer Vision Engineer · AI Product Builder
 
 I'm currently a Computer Vision Intern, learning how machines can turn visual data into useful decisions.
 
